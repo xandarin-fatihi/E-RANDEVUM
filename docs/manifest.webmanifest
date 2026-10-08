@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "E-Randevum · Statik Demo",
+  "short_name": "E-Randevum",
+  "description": "E-Randevum GitHub Pages statik arayüz demosu",
+  "start_url": "./#musteri",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6f5",
+  "theme_color": "#143f3a",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
